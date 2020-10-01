@@ -1,0 +1,23 @@
+{
+  "name": "grit",
+  "version": "1.0.0",
+  "description": "This is a dev tool built with electronjs ⚛ for testing, manipulating and checking optimization.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzchiziterem/grit.git"
+  },
+  "keywords": [],
+  "author": "Hanz Chiziterem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanzchiziterem/grit/issues"
+  },
+  "homepage": "https://github.com/hanzchiziterem/grit#readme",
+  "dependencies": {
+    "electron": "^10.1.2"
+  }
+}
